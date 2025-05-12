@@ -6,7 +6,6 @@
 ![Databricks](https://img.shields.io/badge/Databricks-Delta%20Lake-orange)
 ![ADF](https://img.shields.io/badge/Azure-Data%20Factory-blue)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Azure%20DevOps-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 
